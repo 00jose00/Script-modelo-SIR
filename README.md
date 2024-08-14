@@ -1,0 +1,1 @@
+# Script-modelo-SIR
