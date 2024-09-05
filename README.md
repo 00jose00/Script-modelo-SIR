@@ -1,10 +1,3 @@
 # Script-modelo-SIR
 
-skldfj
-asdklfjasdljfas
-fa
-sdf
-asd
-fasdf
-a
-sdf
+A continuación, están los codigos para la proyección y simulación de la patología y población afectada
